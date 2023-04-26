@@ -5,4 +5,4 @@ The notebooks/files with analytical content are the following:
 - housing_prices_model_selection
 - housing_prices_regression
 
-This file contains classification analysis with implementation of three models: Decision Tree, KNN, and Logistic Regression.
+Housing_prices_model_selection file contains classification analysis with implementation of three models: Decision Tree, KNN, and Logistic Regression.
